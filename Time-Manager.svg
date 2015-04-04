@@ -388,9 +388,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25000001"
-     inkscape:cx="26.84783"
-     inkscape:cy="1323.7728"
+     inkscape:zoom="0.50000002"
+     inkscape:cx="2117.9954"
+     inkscape:cy="1805.6278"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -405,7 +405,8 @@
      showguides="false"
      inkscape:snap-others="false"
      inkscape:snap-nodes="false"
-     height="841mm" />
+     height="841mm"
+     units="in" />
   <metadata
      id="metadata4680">
     <rdf:RDF>
